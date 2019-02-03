@@ -91,7 +91,7 @@
             this.Controls.Add(this.Label_Cancri55e);
             this.Controls.Add(this.Label_Earth);
             this.Name = "HumanWeightToCancri55e";
-            this.Text = "HumanWeightToCancri55e";
+            this.Text = " HumanWeightToCancri55e";
             this.ResumeLayout(false);
             this.PerformLayout();
 
